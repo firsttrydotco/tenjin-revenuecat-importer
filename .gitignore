@@ -1,0 +1,34 @@
+# Sensitive data
+*.csv
+!sample_data.csv
+
+# Logs
+*.log
+*.pid
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images (except documentation)
+*.png
+!docs/*.png
+
