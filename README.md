@@ -341,7 +341,3 @@ Once complete, verify in Tenjin dashboard:
 - [ ] `--bundle-id` argument provided
 
 **🚀 Ready? Launch the import!**
-
-## 📄 License
-
-Proprietary - FirstTry
